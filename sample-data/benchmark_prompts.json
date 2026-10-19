@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": "prompt-001",
+    "category": "cloud-cost-analysis",
+    "prompt": "In order to analyze AWS costs, I am able to review a large number of records at this point in time."
+  },
+  {
+    "id": "prompt-002",
+    "category": "summarization",
+    "prompt": "At this point in time, summarize the majority of the report in order to identify the most important findings."
+  },
+  {
+    "id": "prompt-003",
+    "category": "technical-writing",
+    "prompt": "Due to the fact that the API is unavailable, provide a summary of the errors and explain what the system is able to do."
+  },
+  {
+    "id": "prompt-004",
+    "category": "data-analysis",
+    "prompt": "In the event that the data contains missing values, identify them and explain the reason that each value is missing."
+  },
+  {
+    "id": "prompt-005",
+    "category": "simple-control",
+    "prompt": "Explain how S3 bucket versioning works."
+  }
+]

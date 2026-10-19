@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# macOS and editors
+.DS_Store
+.vscode/
+
+# Test and coverage output
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Generated benchmark results (keep the source dataset)
+sample-data/benchmark_results.json
